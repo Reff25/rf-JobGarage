@@ -1,4 +1,4 @@
-# EMS/Police Garage System for QBCore
+# Job Garage System for QBCore
 
 A comprehensive garage system for emergency services (Police and Ambulance) in QBCore FiveM servers.
 
